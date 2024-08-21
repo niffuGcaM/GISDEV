@@ -1,2 +1,2 @@
-# Image-Repository
-自用，上传图片
+# MyRepository
+自用，多平台同步
