@@ -1,2 +1,2 @@
-# MyRepository
-自用，多平台同步
+# GISDEV
+略
